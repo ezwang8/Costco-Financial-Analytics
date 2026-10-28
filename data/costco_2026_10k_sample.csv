@@ -1,0 +1,4 @@
+fiscal_year,fiscal_year_end,net_sales_usd_m,membership_fees_usd_m,total_revenue_usd_m,merchandise_costs_usd_m,operating_income_usd_m,net_income_usd_m,cash_usd_m,receivables_usd_m,inventory_usd_m,accounts_payable_usd_m,current_assets_usd_m,current_liabilities_usd_m,assets_usd_m,equity_usd_m,source_url
+2024,2024-09-01,249625,4828,254453,222358,9285,7367,,,,,,,,,https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm
+2025,2025-08-31,269912,5323,275235,239886,10383,8099,14161,3203,18116,19783,38380,37108,77099,29164,https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm
+2026,2026-08-30,297247,5907,303154,264279,11685,9226,20207,3959,19324,22591,46582,43952,89045,35803,https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm
